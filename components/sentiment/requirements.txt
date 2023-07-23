@@ -1,0 +1,3 @@
+vaderSentiment==3.2.1
+seldon-core==1.5.0
+markupsafe==2.0.1
