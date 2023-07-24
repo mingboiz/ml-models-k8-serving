@@ -1,9 +1,11 @@
 # ml-models-k8-serving
 Serving Machine Learning Pipeline with Seldon Core on Kubernetes
-
+<p align="center">
+  <img width="900" height="500" src="architecture.png">
+</p>
 Barebones microservices setup, input text is entered to get predictions from sequence of Machine Learning models deployed as a pipeline.
 
-1. Set-up barebones kubernetes cluster
+1. Set-up barebones Kubernetes cluster 
 
 2. Install [Seldon-core](https://docs.seldon.io/projects/seldon-core/en/latest/charts/seldon-core-operator.html) and [Istio](https://istio.io/latest/docs/setup/install/helm/)
 
