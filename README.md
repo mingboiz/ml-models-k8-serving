@@ -1,7 +1,7 @@
 # ml-models-k8-serving
 Serving Machine Learning Pipeline with Seldon Core on Kubernetes
 <p align="center">
-  <img width="900" height="500" src="architecture.png">
+  <img width="850" height="850" src="architecture.png">
 </p>
 Barebones microservices setup, input text is entered to get predictions from sequence of Machine Learning models deployed as a pipeline.
 
